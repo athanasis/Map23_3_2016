@@ -4,7 +4,7 @@
     <Languages xmlns="">
         <Language code="en-US" />
     </Languages>
-    <App Author="Apache Cordova Team" BitsPerPixel="32" Description="A sample Apache Cordova application that responds to the deviceready event." Genre="apps.normal" ProductID="{023fcf70-f07e-11e5-87c0-a5495ccce446}" Publisher="Apache Cordova Team" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="SimpleMap" Version="0.0.1" xmlns="">
+    <App Author="NIKOS ATHANASIS" BitsPerPixel="32" Description="TEST MAP APP." Genre="apps.normal" ProductID="{023fcf70-f07e-11e5-87c0-a5495ccce446}" Publisher="NIKOS ATHANASIS" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="SimpleMap" Version="0.0.1" xmlns="">
         <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
         <Capabilities>
             <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
